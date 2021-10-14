@@ -1,0 +1,16 @@
+﻿body
+{ font-family: 'Times New Roman', Times, serif;
+  background-color: lightgray;
+  text-align: center;
+}
+
+table {
+    width: 35%;
+    height: 30%;
+    border: 10px ridge;
+    margin-left: 35%; 
+}
+
+tr {
+    border: 5px ridge;
+}
